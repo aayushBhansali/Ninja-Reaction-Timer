@@ -1,6 +1,7 @@
 # Ninja Reaction Timer
 
-## A simple Reaction timer made using Vue.js
+## A simple Reaction Timer made using Vue.js
+Give it a try - https://aayushbhansali.github.io/Ninja-Reaction-Timer/
 
 ## Project setup
 ```

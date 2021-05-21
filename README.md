@@ -1,4 +1,6 @@
-# reaction-timer
+# Ninja Reaction Timer
+
+## A simple Reaction timer made using Vue.js
 
 ## Project setup
 ```
